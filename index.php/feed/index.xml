@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Test</title>
+	<atom:link href="https://https://54duncan.github.io/t6110404/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://54duncan.github.io/t6110404</link>
+	<description>全新的繁體中文 WordPress 網站</description>
+	<lastBuildDate>Tue, 29 Mar 2022 09:51:58 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>0329</title>
+		<link>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/0329/</link>
+					<comments>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/0329/#respond</comments>
+		
+		<dc:creator><![CDATA[t6110404]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 09:51:58 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">https://https://54duncan.github.io/t6110404/?p=5</guid>
+
+					<description><![CDATA[Hello world!]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center"><a href="https://www.google.com/webhp?authuser=1" data-type="URL" data-id="https://www.google.com/webhp?authuser=1" target="_blank" rel="noreferrer noopener"><strong>Hello world</strong>!</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img width="768" height="1024" src="https://https://54duncan.github.io/t6110404/wp-content/uploads/2022/03/LINE_ALBUM_個經小考_211024_0-768x1024.jpg" alt="" class="wp-image-8" srcset="https://https://54duncan.github.io/t6110404/wp-content/uploads/2022/03/LINE_ALBUM_個經小考_211024_0-768x1024.jpg 768w, https://https://54duncan.github.io/t6110404/wp-content/uploads/2022/03/LINE_ALBUM_個經小考_211024_0-225x300.jpg 225w, https://https://54duncan.github.io/t6110404/wp-content/uploads/2022/03/LINE_ALBUM_個經小考_211024_0.jpg 960w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/0329/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>網站第一篇文章</title>
+		<link>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/hello-world/</link>
+					<comments>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[t6110404]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 09:37:46 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">https://https://54duncan.github.io/t6110404/?p=1</guid>
+
+					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
+										<content:encoded><![CDATA[
+<p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://54duncan.github.io/t6110404/index.php/2022/03/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
